@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\alikamr3\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-3a13047d375f115d98285cc9e8686be4da668a86.jar" />
+    </item>
+    <item
+        jar="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\pre-dexed\debug\classes-8c11883476df52187d9c804e127f234ba9a82f84.jar" />
+    </item>
+    <item
+        jar="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\pre-dexed\debug\classes-5a157e660555192e064db45600bb355d9aead309.jar" />
+    </item>
+    <item
+        jar="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-860a9eed297db337d60e43bc41715fd4b51abc21.jar" />
+    </item>
+    <item
+        jar="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\pre-dexed\debug\json_simple-1.1-87cb2e0922f16a739c8335c6b9b137d453c67f2e.jar" />
+    </item>
+    <item
+        jar="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\libs\dropbox-android-sdk-1.6.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="C:\Users\alikamr3\Desktop\BioSwipe\SwipeAndType\app\build\intermediates\pre-dexed\debug\dropbox-android-sdk-1.6.3-0f82741770df85a3f068a1a37c5c5ee31c84bf36.jar" />
+    </item>
+
+</items>
